@@ -1,0 +1,36 @@
+ ce que tu dois comprendre en java tu peux faire des recherches pour mieux comprendre
+1. Syntaxe de base
+- Les types de données (entiers, décimaux, booléens, etc.).
+- Les opérateurs arithmétiques, logiques et de comparaison.
+- Les structures de contrôle (if, else, switch, boucles for, while).
+- Les tableaux et les collections (Listes, ensembles, cartes).
+2. Programmation orientée objet (POO)
+- Les classes et les objets.
+- L'encapsulation, l'héritage et le polymorphisme.
+- Les interfaces et les classes abstraites.
+- Les packages et la modularité.
+3. Gestion de la mémoire
+- La collecte des déchets (garbage collection).
+- L'allocation de mémoire et les références d'objets.
+4. Exceptions
+- Les types d'exceptions.
+- La gestion des exceptions avec les blocs try-catch-finally.
+- Les exceptions personnalisées.
+5. Entrées/Sorties (E/S)
+- La lecture et l'écriture de fichiers.
+- Les flux (streams) d'entrée/sortie.
+6. Threads et Concurrence
+- La création et la gestion de threads.
+- La synchronisation et les verrous.
+7. Collections et Frameworks
+- L'utilisation des collections Java (ArrayList, HashMap, etc.).
+- L'utilisation de frameworks comme Spring, Hibernate, etc.
+8. Interfaces graphiques (GUI)
+- La création d'interfaces utilisateur avec JavaFX ou Swing.
+- La gestion des événements et des actions.
+9. Gestion de la mémoire et performances
+- L'optimisation du code Java.
+- Les bonnes pratiques de programmation pour améliorer les performances.
+10. Sécurité
+- La sécurité des applications Java.
+- Les bonnes pratiques pour éviter les vulnérabilités.
